@@ -1,7 +1,6 @@
 // List of URLs with their respective weights
 const urlWeights = [
-    { url: "https://t.co/iCGhRXO6fU", weight: 25 },
-    { url: "https://l.instagram.com/?u=https%3A%2F%2Fmoncollierunique.com%2F&e=AT0DSO4V237QoOWU3sIi65kD3THHUbF2vEr40Sw-dXz43LbOQOz-naj8snDbIf5dBgAmHI9ZOnVc5xO8pp91AWcp2ttTd2WY", weight: 25 },
+    { url: "https://t.co/iCGhRXO6fU", weight: 50 },
     { url: "https://moncollierunique.com/collections/collier-lettre", weight: 7 },
     { url: "https://moncollierunique.com/collections/collier-initiale", weight: 7 },
     { url: "https://moncollierunique.com/collections/collier-arbre-de-vie-prenom", weight: 7 },
@@ -14,11 +13,10 @@ const urlWeights = [
     { url: "https://moncollierunique.com/products/collier-plusieurs-prenoms", weight: 2 },
     { url: "https://moncollierunique.com/products/collier-4-prenoms", weight: 2 },
     { url: "https://moncollierunique.com/products/collier-prenom-lettre-separee", weight: 2 },
-    { url: "https://t.co/5IfJncj3uQ", weight: 40 },
-    { url: "https://l.instagram.com/?u=https%3A%2F%2Fbraceletphoto.com%2F&e=AT0tB2-2xEJTf5JD0pzYZz8P46vBvLJ4VY3Ias8TBf7WeyemlhxFKo9fDOYicJdFls4EIZmahPgXnaETrxfeFD3kx2-a8Ve8", weight: 40 },
+    { url: "https://t.co/5IfJncj3uQ", weight: 80 },
     { url: "https://braceletphoto.com/", weight: 20 },
     { url: "https://t.co/C8gqQGHozW", weight: 50 },
-    { url: "https://maison-du-caftan.com/collections/caftan%20marocain", weight: 7 },
+    { url: "https://maison-du-caftan.com/collections/caftan-marocain", weight: 7 },
     { url: "https://maison-du-caftan.com/collections/robe-caftan", weight: 7 },
     { url: "https://maison-du-caftan.com/collections/caftan-mariage", weight: 5 },
     { url: "https://maison-du-caftan.com/collections/caftan-moderne", weight: 3 },
