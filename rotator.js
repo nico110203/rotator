@@ -1,19 +1,7 @@
 // List of URLs with their respective weights
 const urlWeights = [
-    { url: "https://t.co/iCGhRXO6fU", weight: 50 },
-    { url: "https://t.co/uVMVxjhiZX", weight: 10 },
-    { url: "https://t.co/QWgbefZean", weight: 10 },
-    { url: "https://t.co/AmVguTMBSq", weight: 10 },
-    { url: "https://t.co/waNUMqvTfl", weight: 10 },
-    { url: "https://t.co/dJ056vFgVv", weight: 10 },
-    { url: "https://t.co/5IfJncj3uQ", weight: 100 },
-    { url: "https://t.co/C8gqQGHozW", weight: 30 },
-    { url: "https://t.co/EHb54L9Rrp", weight: 20 },
-    { url: "https://t.co/Npme9DJsBw", weight: 20 },
-    { url: "https://t.co/xqyWcCzwBG", weight: 20 },
-    { url: "https://t.co/MyLLqPwi9o", weight: 10 },
-    { url: "https://t.co/GV5jjpg7az", weight: 50 },
-    { url: "https://t.co/ogNrrfZ1CN", weight: 50 },
+    { url: "https://t.co/iCGhRXO6fU", weight: 1 },
+    { url: "https://t.co/5IfJncj3uQ", weight: 1 },
    
 ];
 
