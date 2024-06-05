@@ -14,6 +14,8 @@ const urlWeights = [
     { url: "https://t.co/MyLLqPwi9o", weight: 10 },
     { url: "https://t.co/ogNrrfZ1CN", weight: 30 },
     { url: "https://t.co/GV5jjpg7az", weight: 30 }
+    { url: "https://l.instagram.com/?u=https%3A%2F%2Fbraceletphoto.com%2F&e=AT3Cq_ZgFf5-bTvlp_MUTTC3DCz4KB5nyY5aOfxZ198PCmXFX4JKuyZ-OFIi1xlFbkb7pzXRhKbZl5UCxkXA4Id5G4xORH7fjC-zf8BTm0vE6c56ZgGzEQ", weight: 100 }
+    
 ];
 
 // Function to get a random URL based on weights
