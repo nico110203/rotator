@@ -3,9 +3,7 @@ const urlWeights = [
 
     // Mon Collier Unique
     
-    { url: "https://t.co/iCGhRXO6fU", weight: 10 },
-    { url: "https://t.co/JodASXZXWr", weight: 10 },
-    { url: "https://t.co/VUdc8qC2u8", weight: 10 },
+    { url: "https://moncollierunique.com/", weight: 30 },
     { url: "https://t.co/vkilQKSyqL", weight: 10 },
     { url: "https://t.co/XdhkXUtafT", weight: 10 },
     
@@ -17,14 +15,14 @@ const urlWeights = [
   
     // Bracelet Photo
     
-    { url: "https://t.co/XXZbpiyfkB", weight: 25 },
+    { url: "https://braceletphoto.com/", weight: 25 },
     { url: "https://t.co/rLoYiiE4C0", weight: 25 },
     { url: "https://t.co/kLWKy4xnET", weight: 25 },
     { url: "https://t.co/OENbRPOswC", weight: 25 },
     
     // Maison du Caftan
     
-    { url: "https://t.co/olxpqDhv25", weight: 10 },
+    { url: "https://maison-du-caftan.com/", weight: 10 },
     { url: "https://t.co/oCqq9bT6Mv", weight: 10 },
     { url: "https://t.co/GaUDDGvVei", weight: 10 },
     
@@ -40,9 +38,6 @@ const urlWeights = [
     { url: "https://t.co/lKYbaHzm2K", weight: 5 },
     { url: "https://t.co/GvcJqDAJLU", weight: 5 },
     
-    // Robes de plage
-    
-    { url: "https://t.co/tYJt9L6wFt", weight: 30 }
 
     
 ];
