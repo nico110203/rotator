@@ -4,40 +4,32 @@ const urlWeights = [
     // Mon Collier Unique
     
     { url: "https://moncollierunique.com/", weight: 30 },
-    { url: "https://t.co/vkilQKSyqL", weight: 10 },
-    { url: "https://t.co/XdhkXUtafT", weight: 10 },
+    { url: "https://t.co/RIRmw6mVPE", weight: 10 },
+    { url: "https://t.co/VX36IHxOMo", weight: 10 },
     
-    { url: "https://t.co/Gqg3yYsJID", weight: 10 },
-    { url: "https://t.co/TriZVXGvmb", weight: 10 },
-    { url: "https://t.co/hybXWGYfQY", weight: 10 },
-    { url: "https://t.co/USqEcngXRT", weight: 10 },
-    { url: "https://t.co/ANcd3EPiOH", weight: 10 },
+    { url: "https://t.co/rzjw1yLgPC", weight: 10 },
+    { url: "https://t.co/aQS8MGI9cL", weight: 10 },
+    { url: "https://t.co/aIcFbOLjnp", weight: 10 },
+    { url: "https://t.co/8UfhERNdfC", weight: 10 },
+    { url: "https://t.co/kE92wwfEgd", weight: 10 },
   
     // Bracelet Photo
     
     { url: "https://braceletphoto.com/", weight: 25 },
-    { url: "https://t.co/rLoYiiE4C0", weight: 25 },
-    { url: "https://t.co/kLWKy4xnET", weight: 25 },
-    { url: "https://t.co/OENbRPOswC", weight: 25 },
+    { url: "https://t.co/vyexHJGD1R", weight: 25 },
+    { url: "https://t.co/SDDFCgYnjj", weight: 25 },
+    { url: "https://t.co/usbidnbpQW", weight: 25 },
     
     // Maison du Caftan
     
-    { url: "https://maison-du-caftan.com/", weight: 10 },
-    { url: "https://t.co/oCqq9bT6Mv", weight: 10 },
-    { url: "https://t.co/GaUDDGvVei", weight: 10 },
+    { url: "https://maison-du-caftan.com/", weight: 20 },
+    { url: "https://t.co/vrd95ZGZqm", weight: 10 },
+    { url: "https://t.co/QFlc6MnZ3F", weight: 10 },
     
-    { url: "https://t.co/EHb54L9Rrp", weight: 10 },
-    { url: "https://t.co/Npme9DJsBw", weight: 10 },
-    { url: "https://t.co/xqyWcCzwBG", weight: 10 },
-    { url: "https://t.co/MyLLqPwi9o", weight: 10 },
-
-    { url: "https://t.co/iKfYFaL6BYo", weight: 5 },
-    { url: "https://t.co/Cuwug6jTT3", weight: 5 },
-    { url: "https://t.co/IbM40V5Cdh", weight: 5 },
-    { url: "https://t.co/gBx18Ph8jg", weight: 5 },
-    { url: "https://t.co/lKYbaHzm2K", weight: 5 },
-    { url: "https://t.co/GvcJqDAJLU", weight: 5 },
-    
+    { url: "https://t.co/XyxU36FazH", weight: 20 },
+    { url: "https://t.co/bEFqNvDJVD", weight: 20 },
+    { url: "https://t.co/Bt5ixq4iZA", weight: 10 },
+    { url: "https://t.co/MTKO1L5dvj", weight: 10 },
 
     
 ];
