@@ -14,11 +14,10 @@ const urlWeights = [
     { url: "https://t.co/kE92wwfEgd", weight: 10 },
   
     // Bracelet Photo
-    
-    { url: "https://braceletphoto.com/", weight: 25 },
-    { url: "https://t.co/vyexHJGD1R", weight: 25 },
-    { url: "https://t.co/SDDFCgYnjj", weight: 25 },
-    { url: "https://t.co/usbidnbpQW", weight: 25 },
+
+
+ { url: "https://l.instagram.com/?u=https%3A%2F%2Fbraceletphoto.com%2F&e=AT30xrCJgDii50Qd_tj3Pf7QX12OPU3jYpI6cIZfS57IwZ_m_35vWSBiUzLAlAwMZpfzAPd9MQsZ7WsN_0t-BjZA_6reJ-o530o5fw", weight: 100 },
+   
     
     // Maison du Caftan
     
