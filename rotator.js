@@ -16,7 +16,7 @@ const urlWeights = [
     // Bracelet Photo
 
 
- { url: "https://l.instagram.com/?u=https%3A%2F%2Fbraceletphoto.com%2F&e=AT30xrCJgDii50Qd_tj3Pf7QX12OPU3jYpI6cIZfS57IwZ_m_35vWSBiUzLAlAwMZpfzAPd9MQsZ7WsN_0t-BjZA_6reJ-o530o5fw", weight: 100 },
+ { url: "https://l.instagram.com/?u=https%3A%2F%2Fbraceletphoto.com%2F&e=AT30xrCJgDii50Qd_tj3Pf7QX12OPU3jYpI6cIZfS57IwZ_m_35vWSBiUzLAlAwMZpfzAPd9MQsZ7WsN_0t-BjZA_6reJ-o530o5fw", weight: 1000 },
    
     
     // Maison du Caftan
