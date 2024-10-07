@@ -4,12 +4,12 @@ const urlWeights = [
   
     // Bracelet Photo
     { url: "https://braceletphoto.com/", weight: 1 },
-    { url: "https://t.co/nLhf4rc3yH", weight: 1 },
-    { url: "https://t.co/XoxkJtpY6m", weight: 1 },
-    { url: "https://t.co/OhPOCLI9Kg", weight: 1 },
-    { url: "https://t.co/4nx8AAqqfK", weight: 1 },
-    { url: "https://t.co/acPIGII5vl", weight: 1 },
-   
+    { url: "https://t.co/np3kok1THf", weight: 4 },
+
+   // Maison du Caftan
+    { url: "https://maison-du-caftan.com/", weight: 1 },
+    { url: "https://t.co/wwayQHVsGS", weight: 2 },
+    { url: "https://t.co/27JTOTU81H", weight: 2 },
 
     
 ];
