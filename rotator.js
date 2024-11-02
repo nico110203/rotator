@@ -3,13 +3,12 @@ const urlWeights = [
 
   
     // Bracelet Photo
-    { url: "https://braceletphoto.com/", weight: 1 },
-    { url: "https://t.co/np3kok1THf", weight: 4 },
+    { url: "https://braceletphoto.com/", weight: 2 },
+    { url: "https://t.co/9rdZ3clfCf", weight: 4 },
+    { url: "https://t.co/uLXASoIRz8", weight: 4 },
+    { url: "https://t.co/jbbjVZDZoS", weight: 4 },
+    
 
-   // Maison du Caftan
-    { url: "https://maison-du-caftan.com/", weight: 1 },
-    { url: "https://t.co/wwayQHVsGS", weight: 2 },
-    { url: "https://t.co/27JTOTU81H", weight: 2 },
 
     
 ];
