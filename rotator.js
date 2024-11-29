@@ -3,8 +3,13 @@ const urlWeights = [
 
   
     // Bracelet Photo
-    { url: "https://t.co/rYYGntj8rR", weight: 5 },
+    { url: "https://t.co/rYYGntj8rR", weight: 1 },
     { url: "https://t.co/hCcf3CU8Xg", weight: 1 },
+    { url: "https://t.co/XXZbpiyfkB", weight: 1 },
+    { url: "https://t.co/rLoYiiECry", weight: 1 },
+    { url: "https://t.co/kLWKy4xnET", weight: 1 },
+
+  
     
     
 
