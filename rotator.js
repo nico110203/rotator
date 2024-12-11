@@ -8,11 +8,12 @@ const urlWeights = [
     { url: "https://t.co/XXZbpiyfkB", weight: 1 },
     { url: "https://t.co/rLoYiiECry", weight: 1 },
     { url: "https://t.co/kLWKy4xnET", weight: 1 },
+    { url: "https://t.co/F0LlhRG5pY", weight: 1 },
+    { url: "https://t.co/gB8vv7mpKF", weight: 1 },
+    { url: "https://t.co/KlCMl6Axqi", weight: 1 },
 
   
     
-    
-
 
     
 ];
