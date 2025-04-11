@@ -3,18 +3,10 @@ const urlWeights = [
 
   
     // Bracelet Photo
-    { url: "https://t.co/rYYGntj8rR", weight: 1 },
-    { url: "https://t.co/hCcf3CU8Xg", weight: 1 },
-    { url: "https://t.co/XXZbpiyfkB", weight: 1 },
+    { url: "https://t.co/IWU5mNTOwo", weight: 1 },
+    { url: "https://t.co/XXZbpiyNa9", weight: 1 },
     { url: "https://t.co/rLoYiiECry", weight: 1 },
-    { url: "https://t.co/kLWKy4xnET", weight: 1 },
-    { url: "https://t.co/F0LlhRG5pY", weight: 1 },
-    { url: "https://t.co/gB8vv7mpKF", weight: 1 },
-    { url: "https://t.co/KlCMl6Axqi", weight: 1 },
-
-  
-    
-
+   
     
 ];
 
